@@ -1,5 +1,6 @@
 # neonartxd.github.io
 # Neon Art
+![Neon Art 포스터](https://github.com/neonartxd/neonartxd.github.io/assets/171792121/f8b168b7-2992-4b4a-a87f-8a15ea4a1cfa)
 
 ## 목차
 
